@@ -1,0 +1,10 @@
+.container{
+    display: block;
+   width: 300px;
+   margin: 100px auto 0;
+}
+button{
+    background-color: rgb(94, 188, 250);
+    color: rgb(121, 89, 43);
+    
+}
